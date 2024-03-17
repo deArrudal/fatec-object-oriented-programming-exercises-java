@@ -2,7 +2,7 @@
 
 A repository containing all exercises developed during the Object-Oriented Programming course.
 All the reference material can be found in ["Object-Oriented Programming [Portuguese]"]().
-Alternatively, a brief summary of the topics can be found in [""](
+Alternatively, a brief summary of the topics can be found in "Weisfeld, Matt (2019) The Object-Oriented Thought Process".
 
 ## Description
 
@@ -15,6 +15,20 @@ Alternatively, a brief summary of the topics can be found in [""](
 
 ### Folder Structure
 
+````
+PROJECTS - OBJECT-ORIENTED PROGRAMMING
+├── Lecture X
+│   ├── #projectName#
+│   │   ├── src
+│   |   │   ├── controller
+│   |   │   ├── model
+│   |   │   ├── view
+│   |   |   │   ├── Main.java
+├── .gitignore
+├── LICENSE
+└── README.md
+````
+
 ### Executing program
 
 * Each java file can be found in the "/src" folder.
@@ -25,6 +39,9 @@ Alternatively, a brief summary of the topics can be found in [""](
  - deArruda, Lucas [@SardinhaArruda](https://twitter.com/SardinhaArruda)
 
 ## Version History
+
+* 0.1
+    Add Lecture 01
 
 ## License
 
