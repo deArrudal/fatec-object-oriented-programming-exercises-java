@@ -2,9 +2,13 @@
 
 A repository containing all exercises developed during the Object-Oriented Programming course.
 All the reference material can be found in ["Object-Oriented Programming [Portuguese]"]().
+
 Alternatively, a brief summary of the topics can be found in "Weisfeld, Matt (2019) The Object-Oriented Thought Process".
 
 ## Description
+
+Lecture 01 - Objects
+Lecture 02 - Relationships 
 
 ## Getting Started
 
@@ -42,6 +46,8 @@ PROJECTS - OBJECT-ORIENTED PROGRAMMING
 
 * 0.1
     Add Lecture 01
+* 0.2
+    Add Lecture 02
 
 ## License
 
