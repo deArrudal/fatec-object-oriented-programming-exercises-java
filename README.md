@@ -1,14 +1,16 @@
 # Object-Oriented Programming Exercises
 
 A repository containing all exercises developed during the Object-Oriented Programming course.
-All the reference material can be found in ["Object-Oriented Programming [Portuguese]"]().
+All the reference material can be found in ["Object-Oriented Programming [Portuguese]"](https://www.leandrocolevati.com.br/index.jsp).
 
 Alternatively, a brief summary of the topics can be found in "Weisfeld, Matt (2019) The Object-Oriented Thought Process".
 
 ## Description
 
-Lecture 01 - Objects
-Lecture 02 - Relationships 
+* Lecture 01 - Objects
+* Lecture 02 - Composition/Aggregation
+* Lecture 03 - Inheritance
+* Lecture 04 - Review
 
 ## Getting Started
 
@@ -48,6 +50,10 @@ PROJECTS - OBJECT-ORIENTED PROGRAMMING
     Add Lecture 01
 * 0.2
     Add Lecture 02
+    * 0.1
+    Add Lecture 03
+* 0.2
+    Add Lecture 04
 
 ## License
 
