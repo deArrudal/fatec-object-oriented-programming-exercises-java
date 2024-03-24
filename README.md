@@ -11,6 +11,7 @@ Alternatively, a brief summary of the topics can be found in "Weisfeld, Matt (20
 * Lecture 02 - Composition/Aggregation
 * Lecture 03 - Inheritance
 * Lecture 04 - Review
+* Lecture 05 - Abstract Classes and Interfaces
 
 ## Getting Started
 
@@ -50,10 +51,12 @@ PROJECTS - OBJECT-ORIENTED PROGRAMMING
     Add Lecture 01
 * 0.2
     Add Lecture 02
-    * 0.1
+* 0.3
     Add Lecture 03
-* 0.2
+* 0.4
     Add Lecture 04
+* 0.5
+    Add Lecture 05
 
 ## License
 
