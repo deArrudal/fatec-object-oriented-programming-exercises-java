@@ -12,6 +12,7 @@ Alternatively, a brief summary of the topics can be found in "Weisfeld, Matt (20
 * Lecture 03 - Inheritance
 * Lecture 04 - Review
 * Lecture 05 - Abstract Classes and Interfaces
+* Lecture 06 - Exceptions
 
 ## Getting Started
 
@@ -57,6 +58,8 @@ PROJECTS - OBJECT-ORIENTED PROGRAMMING
     Add Lecture 04
 * 0.5
     Add Lecture 05
+* 0.6
+    Add Lecture 06
 
 ## License
 
