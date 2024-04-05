@@ -14,6 +14,7 @@ Alternatively, a brief summary of the topics can be found in "Weisfeld, Matt (20
 * Lecture 05 - Abstract Classes and Interfaces
 * Lecture 06 - Exceptions
 * Lecture 07 - Design pattern (Factory, Strategy)
+* Lecture 08 - Wrappers and Generics
 
 ## Getting Started
 
@@ -63,6 +64,8 @@ PROJECTS - OBJECT-ORIENTED PROGRAMMING
     Add Lecture 06
 * 0.7
     Add Lecture 07
+* 0.8
+    Add Lecture 08
 
 ## License
 
