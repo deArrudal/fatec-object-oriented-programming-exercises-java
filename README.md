@@ -15,7 +15,8 @@ Alternatively, a brief summary of the topics can be found in "Weisfeld, Matt (20
 * Lecture 06 - Exceptions
 * Lecture 07 - Design pattern (Factory, Strategy)
 * Lecture 08 - Wrappers and Generics
-* Lecture 08 - Servlets
+* Lecture 09 - Servlets
+* Lecture 10 - Servlets
 
 
 ## Getting Started
@@ -70,6 +71,8 @@ PROJECTS - OBJECT-ORIENTED PROGRAMMING
     Add Lecture 08
 * 0.9
     Add Lecture 09
+* 0.10
+    Add Lecture 10
 
 ## License
 
