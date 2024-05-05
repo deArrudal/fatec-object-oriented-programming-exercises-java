@@ -17,7 +17,7 @@ Alternatively, a brief summary of the topics can be found in "Weisfeld, Matt (20
 * Lecture 08 - Wrappers and Generics
 * Lecture 09 - Servlets
 * Lecture 10 - Servlets
-
+* Lecture 10 - Connection with DBMS (MySQL)
 
 ## Getting Started
 
@@ -73,6 +73,8 @@ PROJECTS - OBJECT-ORIENTED PROGRAMMING
     Add Lecture 09
 * 0.10
     Add Lecture 10
+* 0.11
+    Add Lecture 11
 
 ## License
 
