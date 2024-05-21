@@ -1,0 +1,17 @@
+CREATE DATABASE registerplayers;
+USE registerplayers;
+
+CREATE TABLE team(
+	id INTEGER(10) NOT NULL PRIMARY KEY,
+	name VARCHAR(50) NOT NULL,
+	cityName VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE player(
+	id INTEGER(10) NOT NULL PRIMARY KEY,
+	name VARCHAR(50) NOT NULL,
+	birthDate DATE NOT NULL,
+	height DECIMAL(3,2) NOT NULL,
+	weight DECIMAL(5,2) NOT NULL,
+	teamId INTEGER(10), FOREIGN KEY (teamId) REFERENCES team (id)
+);
