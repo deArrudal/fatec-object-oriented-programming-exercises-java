@@ -19,6 +19,7 @@ Alternatively, a brief summary of the topics can be found in "Weisfeld, Matt (20
 * Lecture 10 - Servlets
 * Lecture 11 - Connection with DBMS (MySQL)
 * Lecture 12 - Servlets and CRUD
+* Lecture 13 - Servlets and CRUD and Inheritance
 
 ## Getting Started
 
@@ -78,6 +79,8 @@ PROJECTS - OBJECT-ORIENTED PROGRAMMING
     Add Lecture 11
 * 0.12
     Add Lecture 12
+* 0.13
+    Add Lecture 13
 
 ## License
 
